@@ -1,1 +1,2 @@
 This is text file used in git.
+Test branch merge
